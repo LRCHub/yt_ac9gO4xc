@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "JOURNEY",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-03-04T08:29:26.931531Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Long Journey Home",
+      "artist": "Billy Strings",
+      "has_synced": true,
+      "path": "select/01_Long_Journey_Home_Billy_Strings.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Journey Through the Past",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/02_Journey_Through_the_Past_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Words [Between The Lines Of Age] - From The Original Soundtrack Album \"Journey Through The Past\"",
+      "artist": "Neil Young with The Stray Gators",
+      "has_synced": false,
+      "path": "select/03_Words_[Between_The_Lines_Of_Age]_-_From_The_Original_Soundtrack_Album__Journey_T_Neil_Young_with_The_Stray_Gators.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Journey to Ixtlan",
+      "artist": "Jon & Vangelis",
+      "has_synced": false,
+      "path": "select/04_Journey_to_Ixtlan_Jon_&_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Safar (The Journey)",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/05_Safar_(The_Journey)_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Journey",
+      "artist": "Duncan Browne",
+      "has_synced": false,
+      "path": "select/06_Journey_Duncan_Browne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Incredible Journey of Timothy Chase",
+      "artist": "Tomorrow",
+      "has_synced": false,
+      "path": "select/07_The_Incredible_Journey_of_Timothy_Chase_Tomorrow.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Long Long Journey",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/08_Long_Long_Journey_Enya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Long, Long Journey",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/09_Long,_Long_Journey_Enya.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Journey",
+      "artist": "Eiffel 65",
+      "has_synced": false,
+      "path": "select/10_Journey_Eiffel_65.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Journey To Arnhemland",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/11_Journey_To_Arnhemland_Jamiroquai.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JOURNEY",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_JOURNEY_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
